@@ -9,10 +9,14 @@ Aspiring **Software Development Engineer (SDE)** | AI/ML Enthusiast |
 ---
 
 ## About Me  
-- Pursuing **B.E. in Artificial Intelligence & Machine Learning** at RV College of Engineering 
-- Skilled in **Java, SQL, Python, C**, with strong foundations in **DSA, OOP, DBMS**  
-- Experienced in **AI/ML, Deep Learning, NLP, Computer Vision (OpenCV, MediaPipe), Generative AI**  
-- Hands-on with **IoT, ESP32, TensorFlow, Docker, Git, CI/CD**  
-- Passionate about building **scalable systems** that solve **real-world problems**  
+
+I’m **Preetham N**, an aspiring **Software Development Engineer (SDE)** passionate about building intelligent, scalable, and impactful technology solutions. Currently pursuing **B.E. in Artificial Intelligence & Machine Learning** at **RV College of Engineering**, I enjoy working at the intersection of **AI, IoT, and full-stack development**.  
+
+- Experienced in **AI/ML, Deep Learning, NLP, and Computer Vision (OpenCV, MediaPipe)**  
+- Skilled in **Java, Python, SQL, C, and Web Development (PHP, HTML, CSS, MySQL)**  
+- Creator of an **AI-Controlled Hydroponic Farming System** and **AI-Powered Smart Gym Trainer**  
+- Published research with **IEEE** on AI-based fitness tracking & food composition analysis  
+- Strong believer in using technology to solve **real-world problems** in **sustainability, health, and automation**  
+- Open to collaborations in **AI, IoT, and software development projects**  
 
 ---
