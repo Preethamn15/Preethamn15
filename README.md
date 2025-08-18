@@ -14,7 +14,7 @@ I’m **Preetham N**, an aspiring **Software Development Engineer (SDE)** passio
 
 - Experienced in **AI/ML, Deep Learning, NLP, and Computer Vision (OpenCV, MediaPipe)**  
 - Skilled in **Java, Python, SQL, C, and Web Development (PHP, HTML, CSS, MySQL)**  
-- Creator of an **AI-Controlled Hydroponic Farming System** and **AI-Powered Smart Gym Trainer**  
+- Creator of **AI-Powered Smart Gym Trainer**  
 - Published research with **IEEE** on AI-based fitness tracking & food composition analysis  
 - Strong believer in using technology to solve **real-world problems** in **sustainability, health, and automation**  
 - Open to collaborations in **AI, IoT, and software development projects**  
