@@ -1,5 +1,10 @@
 #  About Me:
-Preetham N – aspiring Software Development Engineer (SDE) passionate about building intelligent, scalable, and impactful technology solutions.<br><br>Currently pursuing B.E. in Artificial Intelligence & Machine Learning at RV College of Engineering.<br><br>Presently working as an Intern at SAP, gaining hands-on industry experience in enterprise software development and real-world problem solving.<br><br>Strong interest in working at the intersection of AI, IoT, and full-stack development.<br><br>Experienced in AI/ML, Deep Learning, NLP, and Computer Vision using tools such as OpenCV and MediaPipe.<br><br>Proficient in Java, Python, SQL, C, PHP, HTML, CSS, and MySQL.<br><br>Developed innovative projects including an AI-Powered Smart Gym Trainer leveraging computer vision and intelligent analytics.<br><br>Published IEEE research on AI-based fitness tracking and food composition analysis.<br><br>Passionate about applying technology to domains like healthcare, sustainability, and automation.<br><br>Open to collaborations and opportunities in AI, IoT, and software development.
+Preetham N – Currently pursuing B.E. in Artificial Intelligence & Machine Learning at RV College of Engineering.
+Presently working as an Intern at SAP, gaining hands-on industry experience in enterprise software development and real-world problem solving.
+Strong interest in working at the intersection of AI, IoT, and full-stack development.
+Experienced in AI/ML, Deep Learning, NLP, and Computer Vision using tools such as OpenCV and MediaPipe.
+Proficient in Java, Python, SQL, C, PHP, HTML, CSS, and MySQL.
+Developed innovative projects including an AI-Powered Smart Gym Trainer leveraging computer vision and intelligent analytics.
 
 
 ##  Socials:
