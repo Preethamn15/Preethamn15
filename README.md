@@ -318,19 +318,6 @@ Smart AI + IoT hydroponic farming solution for automated crop monitoring, enviro
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Random%20Developer%20Joke&fontSize=28&fontColor=00F7FF&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</div>
 
 ---
 
